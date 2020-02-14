@@ -1,0 +1,23 @@
+{
+  "life": [
+    {
+      "title": "Complete Forge Rock Test",
+      "type": "Life Changing",
+      "id": 1
+    }
+  ],
+  "important": [
+    {
+      "title": "Eat Well and Exercise",
+      "type": "Important",
+      "id": 1
+    }
+  ],
+  "meh": [
+    {
+      "title": "Watch Tv",
+      "type": "Meh",
+      "id": 1
+    }
+  ]
+}
